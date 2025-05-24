@@ -62,13 +62,14 @@ The repository is organized by each module. You will find related code examples,
 
 | Day   | Topic Description                                                                                                  | Branch Link |
 |-------|--------------------------------------------------------------------------------------------------------------------|-------------|
-| Day 1 | Object-Oriented Programming Fundamentals                                                                           | [Day1](https://github.com/KeerthanaaLN/Week02-Object-Oriented-Programming/tree/Day1) |
-| Day 2 | Java Constructors, Instance vs. Class Variables, Access Modifiers                                                 | [Day2](https://github.com/KeerthanaaLN/Week02-Object-Oriented-Programming/tree/Day2) |
-| Day 3 | this, static, final Keywords and instanceof Operator                                                              | [Day3](https://github.com/KeerthanaaLN/Week02-Object-Oriented-Programming/tree/Day3) |
-| Day 4 | Object Modeling and Class Diagrams                                                                                 | [Day4](https://github.com/KeerthanaaLN/Week02-Object-Oriented-Programming/tree/Day4) |
-| Day 5 | Inheritance                                                                                                        | [Day5](https://github.com/KeerthanaaLN/Week02-Object-Oriented-Programming/tree/Day5) |
-| Day 6 | Encapsulation, Interfaces, Abstract Classes, and Polymorphism                                                     | [Day6](https://github.com/KeerthanaaLN/Week02-Object-Oriented-Programming/tree/Day6) |
+| Day 1 | Object-Oriented Programming Fundamentals                                                                           | [Day1](https://github.com/KeerthanaaLN/Week2-Object-Oriented-Programming/tree/Day1) |
+| Day 2 | Java Constructors, Instance vs. Class Variables, Access Modifiers                                                 | [Day2](https://github.com/KeerthanaaLN/Week2-Object-Oriented-Programming/tree/Day2) |
+| Day 3 | this, static, final Keywords and instanceof Operator                                                              | [Day3](https://github.com/KeerthanaaLN/Week2-Object-Oriented-Programming/tree/Day3) |
+| Day 4 | Object Modeling and Class Diagrams                                                                                 | [Day4](https://github.com/KeerthanaaLN/Week2-Object-Oriented-Programming/tree/Day4) |
+| Day 5 | Inheritance                                                                                                        | [Day5](https://github.com/KeerthanaaLN/Week2-Object-Oriented-Programming/tree/Day5) |
+| Day 6 | Encapsulation, Interfaces, Abstract Classes, and Polymorphism                                                     | [Day6](https://github.com/KeerthanaaLN/Week2-Object-Oriented-Programming/tree/Day6) |
 
 ## ⏭️ Next Steps
 
 Move ahead to **Week 3 - Data Structures** where you’ll explore LinkedLists, Stacks, Queues, HashMaps, Sorting & Searching algorithms, and Runtime Analysis.
+
